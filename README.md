@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="poggn.png">
- <source media="(prefers-color-scheme: light)" srcset="poggn.png">
- <img alt="img" src="./poggn.png">
+ <source media="(prefers-color-scheme: dark)" srcset="catto.gif">
+ <source media="(prefers-color-scheme: light)" srcset="catto.gif">
+ <img alt="img" src="./catto.gif.png">
 </picture>
