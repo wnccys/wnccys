@@ -1,3 +1,3 @@
 <div align="center">
-  ![catto](catto.gif)
+  ![catto](./catto.gif)
 </div>
